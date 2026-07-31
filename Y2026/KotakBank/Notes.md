@@ -8,6 +8,8 @@
 5. How do you implement security for Api
 7. DSA: Running median question    
 8. System Design: Design system to generate identifier for payment system (Prevent apps from creating same id, locking problem, for dynamo db backend)
+9. Which api calls are idempotent?  
+10. 
 
 # Round 2 
 Design Round 
